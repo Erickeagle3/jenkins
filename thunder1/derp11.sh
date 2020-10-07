@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# curl https://raw.githubusercontent.com/Erickeagle3/TS/master/yaap.sh > script_build.sh
+# https://raw.githubusercontent.com/Erickeagle3/jenkins/master/thunder1/derp.sh
 # Make necessary changes before executing script
 
 # Export some variables
