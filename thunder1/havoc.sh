@@ -8,7 +8,7 @@ user=erick
 OUT_PATH="out/target/product/$device_codename"
 tg_username=@NBD_ERICK
 ROM_ZIP=Havoc*.zip
-folderid=1pM_mN0iCt5DZrpyCoBiIpQ4yiDDVg880
+folderid=1U3SzqVp2mi37T_vd6PBJ7BV0D4znV7M-
 tgsend_conf=erick.conf
 START=$(date +%s)
 
