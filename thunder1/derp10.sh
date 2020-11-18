@@ -8,7 +8,7 @@ user=erick
 OUT_PATH="out/target/product/mido"
 tg_username=@NBD_ERICK
 ROM_ZIP=DerpFest*.zip
-folderid=10tnoxoJCf165x4MHHVRSHfkQIgFCq4nQ
+folderid=1U3SzqVp2mi37T_vd6PBJ7BV0D4znV7M-
 tgsend_conf=example.conf
 START=$(date +%s)
 
